@@ -97,8 +97,8 @@ To set up beacons, you can use a mobile app, such as "iBKS", to configure them. 
 
 ## Known Issues
 
-* Node server with Fabric SDK on AWS EC2 instacne sometimes stops responding, needs to be restarted.
-* Keys to manage identity on AWS managed Fabric blockchain are outdated after few weeks, need to re-enroll the use to work.
+* Node server with Fabric SDK on AWS EC2 instance sometimes stops responding, needs to be restarted.
+* Keys managing identity on AWS managed Fabric blockchain are outdated after a few weeks, need to re-enrol the user to work.
 
 ## Contact Info
 
