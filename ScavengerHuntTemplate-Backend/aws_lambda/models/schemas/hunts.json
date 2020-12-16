@@ -1,0 +1,19 @@
+{
+  "TableName": "hunts",
+  "KeySchema": [
+    {
+      "AttributeName": "huntID",
+      "KeyType": "HASH"
+    }
+  ],
+  "AttributeDefinitions": [
+    {
+      "AttributeName": "huntID",
+      "AttributeType": "S"
+    }
+  ],
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}

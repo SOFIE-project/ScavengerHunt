@@ -1,0 +1,19 @@
+{
+  "TableName": "iotbeacon",
+  "KeySchema": [
+    {
+      "AttributeName": "beaconID",
+      "KeyType": "HASH"
+    }
+  ],
+  "AttributeDefinitions": [
+    {
+      "AttributeName": "beaconID",
+      "AttributeType": "S"
+    }
+  ],
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}

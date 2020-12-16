@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "__init__.app", 
+        "aws_region": "{REGION}", 
+        "profile_name": "{PROFILE_NAME}", 
+        "project_name": "{PROJECT_NAME}", 
+        "runtime": "{PYTHON_VERSION}", 
+        "s3_bucket": "{BUCKET_NAME}"
+    }
+}

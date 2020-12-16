@@ -1,0 +1,278 @@
+{
+	"ownedItems": [
+		{
+			"UniqueID": "3",
+			"Name": "Devil horns",
+			"Source": "The Devil trader",
+			"Description": "Brings out your dark side.",
+			"Slot": "Headwear",
+			"Attributes": {
+				"Dark side": 4,
+				"Fire": 3
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image1"
+		},
+		{
+			"UniqueID": "4",
+			"Name": "Bad legs",
+			"Source": "Bad Leg Shop",
+			"Description": "Don't use these",
+			"Slot": "Legs",
+			"Attributes": {
+				"Badness": 130,
+				"Swag": 1
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image2"
+		},
+		{
+			"UniqueID": "5",
+			"Name": "Bad hat",
+			"Source": "Hat shop",
+			"Description": "Don't use this",
+			"Slot": "Headwear",
+			"Attributes": {
+				"Badness": 100,
+				"Swag": 1
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image3"
+		},
+		{
+			"UniqueID": "6",
+			"Name": "VR headset",
+			"Source": "Modulus",
+			"Description": "Thank you for buying the Modulus VR set! Here's a virtual twin of your device.",
+			"Slot": "Eyewear",
+			"Attributes": {
+				"Gaming": 5
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image4"
+		},
+		{
+			"UniqueID": "7",
+			"Name": "Fancy jacket",
+			"Source": "Purplewear",
+			"Description": "This jacket needs no description. Go out there and impress your friends, or sell it for big bucks. Rare reward from the Purplewear loyalty program.",
+			"Slot": "Torso",
+			"Attributes": {
+				"Swag": 7,
+				"Defence": 1
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image5"
+		},
+		{
+			"UniqueID": "8",
+			"Name": "Hawaii shorts",
+			"Source": "Island store",
+			"Description": "Enjoy summer.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 3
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image6"
+		},
+		{
+			"UniqueID": "9",
+			"Name": "Music Anniversary pet",
+			"Source": "Music Streaming Service",
+			"Description": "Your most listened song of the decade was: Really Good - High Five.",
+			"Slot": "Pet",
+			"Attributes": {
+				"Musicality": 2
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image7"
+		},
+		{
+			"UniqueID": "10",
+			"Name": "Cowboy boots",
+			"Source": "That Cowboy Game",
+			"Description": "You beat the cowboy game. Here's boots for you.",
+			"Slot": "Feet",
+			"Attributes": {
+				"Swag": 2,
+				"Defence": 5,
+				"Riding": 10
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image8"
+		},
+		{
+			"UniqueID": "11",
+			"Name": "Turtle",
+			"Source": "Turtle Game 2",
+			"Description": "You have saved 1,000 Turtles in this game, here's a pet to celebrate that!",
+			"Slot": "Pet",
+			"Attributes": {
+				"Flying": 5,
+				"Speed": 154
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image9"
+		},
+		{
+			"UniqueID": "12",
+			"Name": "Sun Glass Bayrarer",
+			"Source": "The Sunglass Company 2",
+			"Description": "Thank you for buying your first Sun Glasses! Here's a virtual twin of your sunglasses.",
+			"Slot": "Eyewear",
+			"Attributes": {
+				"Swag": 15,
+				"UV Protection": 75
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image10"
+		},
+		{
+			"UniqueID": "13",
+			"Name": "Blue legs",
+			"Source": "Island store",
+			"Description": "Ba da de da du daa",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 2,
+				"Blue": 4
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image11"
+		},
+		{
+			"UniqueID": "14",
+			"Name": "Green legs",
+			"Source": "Legs: Raid Legends",
+			"Description": "Common reward from first boss in Legs: Raid Legends",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 2
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image12"
+		},
+		{
+			"UniqueID": "15",
+			"Name": "Yellow legs",
+			"Source": "Legs: Raid Legends",
+			"Description": "Rare reward from first boss in Legs: Raid Legends",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 20
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image13"
+		},
+		{
+			"UniqueID": "16",
+			"Name": "Cross legs",
+			"Source": "Legs: Raid Legends",
+			"Description": "Only 100 of these exist in the world.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Luck": 5
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image14"
+		},
+		{
+			"UniqueID": "17",
+			"Name": "Hypersteel armor",
+			"Source": "SteelScape Legends",
+			"Description": "Use this in games that interpret the Defence attribute for very high defence",
+			"Slot": "Torso",
+			"Attributes": {
+				"Questing": 3,
+				"Defence": 4000
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image15"
+		},
+		{
+			"UniqueID": "18",
+			"Name": "Blue skirt",
+			"Source": "Island store",
+			"Description": "Ba da de da du daa",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 4,
+				"Blue": 4
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image16"
+		},
+		{
+			"UniqueID": "19",
+			"Name": "Fancy legs",
+			"Source": "Fancy Store",
+			"Description": "Look fancy for your friends, or sell for big profit. Fancy Store rare reward.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 4,
+				"Swag": 40
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image17"
+		},
+		{
+			"UniqueID": "20",
+			"Name": "Fancy skirt",
+			"Source": "Fancy Store",
+			"Description": "Look fancy for your friends, or sell for big profit. Fancy Store rare reward.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 3,
+				"Swag": 44
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image18"
+		},
+		{
+			"UniqueID": "21",
+			"Name": "Green skirt",
+			"Source": "Fancy Store",
+			"Description": "Look fancy for your friends, or sell for big profit. Fancy Store rare reward.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 3,
+				"Swag": 44
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image19"
+		},
+		{
+			"UniqueID": "22",
+			"Name": "White skirt",
+			"Source": "Fancy Store",
+			"Description": "Look fancy for your friends, or sell for big profit. Fancy Store rare reward.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Defence": 3,
+				"Swag": 44
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image20"
+		},
+		{
+			"UniqueID": "23",
+			"Name": "Wizard robe legs",
+			"Source": "Legs: Raid Legends",
+			"Description": "Best clothes for magic tricks.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Magic": 13
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image21"
+		},
+		{
+			"UniqueID": "24",
+			"Name": "Best pants",
+			"Source": "Pant Quest",
+			"Description": "Best clothes for magic tricks.",
+			"Slot": "Legs",
+			"Attributes": {
+				"Swag": 130,
+				"Bestness": 999
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image22"
+		},
+		{
+			"UniqueID": "25",
+			"Name": "Animal",
+			"Source": "My backyard",
+			"Description": "A pet reward for staying indoors. Stay safe!",
+			"Slot": "Pet",
+			"Attributes": {
+				"Flying": 5,
+				"Anger": 9
+			},
+			"ImageURL": "http://placehold.it/120x120&text=image23"
+		}
+	],
+	"equippedItems": [
+		"7",
+		"8"
+	]
+}

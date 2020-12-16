@@ -1,0 +1,33 @@
+{
+	"name": "Example Hunt",
+	"creator": "Developer",
+	"description": "This is a test hunt with one task!",
+	"start_long": "24.8333382",
+	"start_lati": "60.177411",
+	"difficulty": 2,
+	"user_rating": 5,
+	"num_raters": 20,
+	"publish_time": 1562397294,
+	"expiration_time": 1563002088,
+	"rewardcoinspool": 1000000,
+	"fixedcoinreward": 1000,
+	"maxtotalfixedpool": 500000,
+	"message": "That's all, folks.",
+	"assetRewards": [
+		"1"
+	],
+	"clues": [
+		"Searching for Eddystone beacon with instanceID 100000000000..."
+	],
+	"tasks": [
+		{
+			"task_num": 1,
+			"instanceID": 17592186044416,
+			"question": "Write yes.",
+			"answer": "yes"
+		}
+	],
+	"hints": [
+		"This is a dummy hint"
+	]
+}

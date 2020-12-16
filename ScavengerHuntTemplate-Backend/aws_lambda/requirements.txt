@@ -1,0 +1,8 @@
+#requirements.txt
+flask
+flask_cors
+zappa
+bson
+simplejson
+boto3
+

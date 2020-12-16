@@ -1,0 +1,13 @@
+{
+	"UniqueID": "1",
+	"Name": "Bad Hat",
+	"Source": "Bad Hat Shop",
+	"Description": "A very beautiful hat..",
+	"Slot": "Headwear",
+	"Attributes": {
+		"Warmth": 5,
+		"Beauty": 2,
+		"Badness": 90
+	},
+	"ImageURL": "http://placehold.it/120x120&text=image1"
+}

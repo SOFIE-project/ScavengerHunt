@@ -1,0 +1,19 @@
+{
+  "TableName": "assets",
+  "KeySchema": [
+    {
+      "AttributeName": "assetId",
+      "KeyType": "HASH"
+    }
+  ],
+  "AttributeDefinitions": [
+    {
+      "AttributeName": "assetId",
+      "AttributeType": "S"
+    }
+  ],
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}
