@@ -1,4 +1,4 @@
-# SOFIE Mobile Gaming Pilot 
+# Scavenger Hunt
 
 **Table of contents:**
 
